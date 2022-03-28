@@ -1,12 +1,12 @@
-List of Algorithms/Data structures and basic operations:
-	- Bit manipulations
-	- Math
-	- Strings
-	- Arrays
-	- Sortings
-	- Hashing
-	- LinkedList
-	- Stack and queue
-	- Heaps and maps
-	- Trees
-	- Backtracking
+List of Algorithms/Data structures and basic operations: /n
+	- Bit manipulations/n
+	- Math/n
+	- Strings/n
+	- Arrays/n
+	- Sortings/n
+	- Hashing/n
+	- LinkedList/n
+	- Stack and queue/n
+	- Heaps and maps/n
+	- Trees/n
+	- Backtracking/n
