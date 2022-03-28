@@ -3,3 +3,4 @@ List of Algorithms/Data structures and basic operations:
 	- Backtracking
 	- Bit manipulations
 	- Hashing
+	- Heaps and maps
