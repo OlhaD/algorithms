@@ -4,3 +4,5 @@ List of Algorithms/Data structures and basic operations:
 	- Bit manipulations
 	- Hashing
 	- Heaps and maps
+	- LinkedList
+	- Math
