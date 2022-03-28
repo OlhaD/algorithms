@@ -6,3 +6,4 @@ List of Algorithms/Data structures and basic operations:
 	- Heaps and maps
 	- LinkedList
 	- Math
+	- Sortings
