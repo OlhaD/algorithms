@@ -7,3 +7,6 @@ List of Algorithms/Data structures and basic operations:
 	- LinkedList
 	- Math
 	- Sortings
+	- Stack and queue
+	- Strings
+	- Trees
