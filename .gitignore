@@ -1,4 +1,4 @@
-
+*.bak
 Arrays/.vs/
 Arrays/Arrays/bin/
 Arrays/Arrays/obj/
@@ -6,4 +6,7 @@ Arrays/Arrays/obj/
 Backtracking/.vs/
 Backtracking/Backtracking/bin/
 Backtracking/Backtracking/obj/
-*.bak
+
+BitManipulations/.vs/
+BitManipulations/BitManipulations/bin/
+BitManipulations/BitManipulations/obj/
